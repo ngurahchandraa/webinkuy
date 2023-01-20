@@ -457,4 +457,12 @@ footer .credit a:hover {
   html {
     font-size: 55%;
   }
+
+  .contact .row {
+    flex-wrap: wrap;
+  }
+
+  .contact .row .map {
+    height: 30rem;
+  }
 }
